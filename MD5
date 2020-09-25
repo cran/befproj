@@ -1,0 +1,14 @@
+0b07138c087489cb30889a4446e814d9 *DESCRIPTION
+058e68ff818c6ce68ce698ecc7fb03e8 *NAMESPACE
+d87659bfed97c0d72d3df941fe641062 *NEWS.md
+4733259ed22d06ef3cb29e2bc21dc8b2 *R/bef_components.R
+ee07d4a06929e6b8dcb0e808c244827c *R/bef_proj.R
+e294f9ab8794ce356c0d90cf87041dcd *R/bef_raw.R
+eb312140ea1df70a03fb416dc85f4550 *README.md
+d5fd320336b1c584a480e16b19dc41a2 *data/assump_data.rda
+5e75d3e88e3679b66a20a9f772e15367 *data/startpop_data.rda
+1efb48434a1c001169f3427563e49bc0 *man/assump_data.Rd
+fec318aef3da7515038f7ea6da398be9 *man/bef_components.Rd
+21dd1709e2714a6cc6e04e9327022c4e *man/bef_proj.Rd
+48ae1c25ecf6d48ef08f04d6c72b4566 *man/bef_raw.Rd
+07d63405a91a3d73d7b58bff722170f3 *man/startpop_data.Rd
